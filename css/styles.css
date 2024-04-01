@@ -107,7 +107,7 @@ ul{
     padding:24px 0;
     
 }
-.nav-div .header-buttons{
+.header-buttons{
     display:flex;
     flex-direction: row;
     
@@ -377,6 +377,7 @@ max-width:264px ;
     color: #4d5ae5;
     line-height:1.17;
     margin-bottom: 16px;
+    display: inline-block;
 }
 .footer-section .web-header{
     color: #f4f4fd;
