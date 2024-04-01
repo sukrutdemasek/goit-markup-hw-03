@@ -195,7 +195,7 @@ ul{
     justify-content: flex-start;
 }
 .qualities-section{
-    padding: 188px 0;
+    padding: 120px 0;
     
     display: flex;
     margin:0 auto;
@@ -237,6 +237,7 @@ color: #434455;
 .team-element{
     background-color: #FFFFFF;
     width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
 
 }
 .team-section .headline-two{
@@ -269,7 +270,7 @@ margin-bottom:8px;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-
+text-align: center;
 
 
 color: #434455;
