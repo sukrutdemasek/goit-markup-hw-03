@@ -74,6 +74,11 @@ gap: 0px;
     align-items: center;
 
 }
+.h-buttons-div{
+    display: flex;
+    gap:40px;
+
+}
 .header-logo .web-header {
     color: #2e2f42;
     
@@ -99,6 +104,7 @@ ul{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding:24px 0;
     
 }
 .nav-div .header-buttons{
@@ -327,6 +333,7 @@ color: #434455;
     justify-content: flex-start;
     flex-wrap: wrap;
     row-gap:48px;
+    column-gap:24px;
 }
 .portfolio-block{
     display:flex;
